@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hola, soy Jhon Rugel 👋
 
-<!--
-**JhonRugel2904/JhonRugel2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Egresado de Diseño y Desarrollo de Software — TECSUP  
+🎓 Estudiante de Ingeniería de Software  
+💻 Desarrollador de Software en formación  
+📍 Perú — Disponible para trabajo remoto o presencial  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy un desarrollador apasionado por la tecnología y la creación de soluciones de software.  
+Me enfoco en el desarrollo web y aplicaciones, aprendiendo constantemente nuevas herramientas y buenas prácticas.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- 💻 Lenguajes: JavaScript, Python, PHP
+- 🌐 Frontend: HTML, CSS, React, Vue
+- 🧠 Backend: Node.js / Laravel / Django 
+- 🗄️ Bases de datos: MySQL, PostgreSQL
+- ⚙️ Herramientas: Git, GitHub, VS Code
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 Sistema de Inventario  
+Aplicación para gestionar productos y stock.
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Arquitectura de software  
+- Desarrollo full-stack  
+- Buenas prácticas de programación  
+
+---
+
+## 📫 Contacto
+
+📧 jhonpietrorugelbarrera@gmail.com 
+💼 LinkedIn: www.linkedin.com/in/jhonrp
