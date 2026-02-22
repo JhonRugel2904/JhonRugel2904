@@ -1,8 +1,7 @@
 # Hola, soy Jhon Rugel 👋
 
 🎓 Egresado de Diseño y Desarrollo de Software — TECSUP  
-🎓 Estudiante de Ingeniería de Software  - UTP
-💻 Desarrollador de Software en formación  
+🎓 Estudiante de Ingeniería de Software  - UTP 
 📍 Perú — Disponible para trabajo remoto o presencial  
 
 ---
