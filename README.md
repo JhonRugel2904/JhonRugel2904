@@ -2,7 +2,7 @@
 
 🎓 Egresado de Diseño y Desarrollo de Software — TECSUP  
 🎓 Estudiante de Ingeniería de Software  - UTP 
-📍 Perú — Disponible para trabajo remoto o presencial  
+📍 Perú   
 
 ---
 
@@ -26,7 +26,7 @@ Me enfoco en el desarrollo web y aplicaciones, aprendiendo constantemente nuevas
 ## 📂 Proyectos destacados
 
 🔹 Sistema de Inventario  
-Aplicación para gestionar productos y stock.
+🔹Aplicación para gestionar productos y stock.
 
 ---
 
